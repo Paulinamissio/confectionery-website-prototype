@@ -20,7 +20,7 @@ html {
 }
 header {
   padding: .7em;
-    border-bottom: 3px solid black;
+  border-bottom: 3px solid black;
 }
 
 body {
@@ -49,6 +49,7 @@ h2 {
 article {
 font-size: .7em;
 font-family: serif;
+color: black;
 }
 
 section {
@@ -92,9 +93,6 @@ text-align: center;
 color: black;
 font-family: "Lobster", cursive;
 }
-/*buttons*/
-
-/*image*/
 
 div {
   /*
@@ -105,8 +103,6 @@ div {
   */
 
 }
-
-/*media q*/
 
 body {
   text-align: center;
