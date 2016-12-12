@@ -41,7 +41,7 @@ h1 {
 }
 
 h2 {
-  font-size: .9rem;
+  font-size: 1.7rem;
   color: black;
   font-family: Lobster, cursive;
   text-align: center;
@@ -54,7 +54,7 @@ article {
 }
 
 main {
-  font-size: .7em;
+  font-size: .9em;
   font-family: serif;
   color: black;
 }
@@ -90,7 +90,7 @@ a {
 }
 
 footer {
-  padding: 20rem;
+  margin: 11rem;
 }
 
 a:hover {
@@ -119,8 +119,8 @@ p {
 .banner-body {
   max-width: 50em;
   position: absolute;
-  left: -9em;
-  bottom: -2em;
+  left: 3rem;
+  bottom: 1.9rem;
 
 }
 
