@@ -95,6 +95,24 @@ p {
   font-family: "Lobster", cursive;
 }
 
+.img-flex {
+  float: right;
+  display: block;
+  width: 34%;
+}
+
+.banner {
+  position: relative;
+}
+
+.banner-body {
+  max-width: 50em;
+  position: absolute;
+  left: -9em;
+  bottom: -2em;
+
+}
+
 div {
   /*
   max-width: 350px;
