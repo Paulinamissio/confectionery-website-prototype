@@ -32,7 +32,7 @@ body {
 }
 
 h1 {
-  font-size: 39px;
+  font-size: 1.9rem;
   padding: .3em;
   color: black;
   margin: 0;
@@ -85,7 +85,8 @@ a {
   background-color: #cc7575;
   padding: .3em .5em .60em;
   margin: .3em;
-  border-radius: 2px;
+  border-radius: 4rem;
+  font-size: .9rem;
 }
 
 footer {
