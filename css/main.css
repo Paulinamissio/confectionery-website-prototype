@@ -108,8 +108,14 @@ p {
   float: right;
   display: block;
   width: 34%;
+  margin-bottom: 1em;
 }
 
+.img8 {
+  display: block;
+  width: 100%;
+  margin-top: 1em;
+}
 .banner {
   position: relative;
 }
@@ -166,7 +172,7 @@ img:nth-child(4) {
   text-align: center;
   font-size: .9rem;
   font-family: serif;
-  margin-top: 14em;
+    margin-top: 2em;
   padding: 1em;
   border: 1em;
 }
@@ -230,5 +236,4 @@ a:hover {
   img:first-child {
     display: inline-block;
   }
-
 }
