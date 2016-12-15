@@ -92,8 +92,10 @@ a {
 }
 
 footer {
-  font-size: .3rem;
+  font-size: .5rem;
   text-align: center;
+  color: black;
+  margin-top: 1em;
 }
 
 p {
